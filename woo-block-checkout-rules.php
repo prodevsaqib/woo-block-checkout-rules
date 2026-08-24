@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Woo Block Checkout Rules
- * Plugin URI:        https://github.com/your-org/woo-block-checkout-rules
+ * Plugin URI:        https://github.com/prodevsaqib/woo-block-checkout-rules.git
  * Description:       Build conditional rules for WooCommerce Cart and Checkout Blocks without editing code.
  * Version:           0.1.1
  * Requires at least: 6.7
