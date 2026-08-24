@@ -16,6 +16,8 @@ Woo Block Checkout Rules provides a simple rule builder for WooCommerce Cart and
 
 Version 0.1.1 supports conditional additional checkout fields, conditional Cart and Checkout button labels, and declares HPOS compatibility.
 
+WooCommerce must be installed and active for this plugin to work.
+
 == Installation ==
 
 1. Upload the plugin folder to `/wp-content/plugins/`.

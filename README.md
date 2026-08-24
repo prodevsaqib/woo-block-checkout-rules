@@ -25,6 +25,7 @@ Open-source conditional rule builder for WooCommerce checkout.
 - WordPress 6.7+
 - WooCommerce 8.9+
 - PHP 7.4+
+- WooCommerce plugin installed and active
 - Cart and Checkout Blocks are supported, as well as classic shortcode checkout.
 
 ## Install
